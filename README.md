@@ -8,11 +8,11 @@ To use this program, you will need access to AWS and a set of keys to enter. To 
 
 ### Prerequisites
 
-[Python 2.7](https://www.python.org/downloads/)
-[PostgreSQL](https://www.postgresql.org/) - Open source relational database
-[Postico](https://eggerapps.at/postico/) - PostgreSQL client for Mac
-`pip install boto3`
-`pip install psycopg2`
+* [Python 2.7](https://www.python.org/downloads/)
+* [PostgreSQL](https://www.postgresql.org/) - Open source relational database
+* [Postico](https://eggerapps.at/postico/) - PostgreSQL client for Mac
+* `pip install boto3`
+* `pip install psycopg2`
 
 ### Installing
 
